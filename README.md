@@ -1,0 +1,2 @@
+# .github
+cubesys GmbH
