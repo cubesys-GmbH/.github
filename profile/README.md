@@ -5,13 +5,13 @@ ecosystem.
 
 ## Products
 
-Find here informations about our V2X hardware solutions: https://cubesys.io/#portfolio
+Check out our [V2X hardware solutions](https://cubesys.io/#portfolio)
 
 
 ## Follow us
 
-Blog: https://cubesys.io/blog.html
-LinkedIn: https://www.linkedin.com/company/cubesys-gmbh
+- Blog: https://cubesys.io/blog.html
+- LinkedIn: https://www.linkedin.com/company/cubesys-gmbh
 
 
 
