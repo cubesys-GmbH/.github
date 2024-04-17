@@ -5,7 +5,7 @@ Here, you'll find a collection of projects that reflect our commitment to advanc
 
 ## About cubesys GmbH
 
-cubesys GmbH is a subsidiary of [nfiniity GmbH](https://nfiniity.com), delivering V2X solutions that elevate intelligent
+cubesys GmbH is a subsidiary of [nfiniity GmbH](https://nfiniity.com), delivering C-ITS solutions that elevate intelligent
 mobility, reshaping transportation into a more secure, remarkably efficient, and eco-friendly
 ecosystem.
 
@@ -13,7 +13,7 @@ Our team comprises talented developers and engineers passionate about leveraging
 
 ## C-ITS Solutions
 
-Find here more about our C-ITS solutions: https://cubesys.io/#portfolio
+Find here more about our [C-ITS solutions](https://cubesys.io/#portfolio) 
 
 ## Get Involved
 
@@ -33,6 +33,6 @@ Stay updated with the latest news, announcements, and project releases by follow
 
 ## License
 
-Unless otherwise specified, all projects hosted under cubesys GmbH are released under the [MIT License](LICENSE).
+Unless otherwise specified, all projects hosted under cubesys GmbH are released under the [MIT License](https://opensource.org/license/MIT).
 
 Happy coding!
