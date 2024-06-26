@@ -5,15 +5,15 @@ Here, you'll find a collection of projects that reflect our commitment to advanc
 
 ## About cubesys GmbH
 
-cubesys GmbH is a subsidiary of [nfiniity GmbH](https://nfiniity.com), delivering ITS solutions that elevate intelligent
+cubesys GmbH is a subsidiary of [nfiniity GmbH](https://nfiniity.com), delivering  Cooperative Intelligent Transport Systems (C-ITS) solutions that elevate intelligent
 mobility, reshaping transportation into a more secure, remarkably efficient, and eco-friendly
 ecosystem.
 
 Our team comprises talented developers and engineers passionate about leveraging technology to solve complex challenges.
 
-## ITS Solutions
+## Products
 
-Find here more about our [ITS solutions](https://cubesys.io/#portfolio) 
+Find here more about our [products](https://cubesys.io/#portfolio).
 
 ## Get Involved
 
