@@ -13,7 +13,7 @@ Our team comprises talented developers and engineers passionate about leveraging
 
 ## Products
 
-Find here more about our [products](https://cubesys.io/#portfolio).
+Find here more about our [products](https://cubesys.io/#hardware-section).
 
 ## Get Involved
 
@@ -27,7 +27,7 @@ We believe in the power of collaboration and welcome contributions from the comm
 
 Stay updated with the latest news, announcements, and project releases by following us on social media:
 
-- Blog: [News and Blog](https://cubesys.io/blog.html)
+- Blog: [News and Blog](https://www.cubesys.io/changelog.html)
 - LinkedIn: [cubesys GmbH](https://www.linkedin.com/company/cubesys-gmbh)
 - Website: [https://www.cubesys.io](https://cubesys.io/)
 
