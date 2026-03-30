@@ -1,5 +1,9 @@
 # cubesys GmbH
 
+[![Website](https://img.shields.io/badge/Website-cubesys.io-blue?style=for-the-badge&logo=google-chrome)](https://cubesys.io) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cubesys-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cubesys-gmbh)
+[![Blog](https://img.shields.io/badge/Blog-News-orange?style=for-the-badge&logo=ghost)](https://www.cubesys.io/changelog.html)
+
 Welcome to the official GitHub account for cubesys GmbH, where we foster innovation through open-source collaboration.
 Here, you'll find a collection of projects that reflect our commitment to advancing technology and sharing knowledge with the global community.
 
