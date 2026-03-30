@@ -27,14 +27,6 @@ We believe in the power of collaboration and welcome contributions from the comm
 - **Report Issues:** Encountered a bug or have a suggestion for improvement? Open an issue on the respective project repository.
 - **Provide Feedback:** Share your thoughts and ideas with us. Your feedback helps us improve and grow.
 
-## Connect with Us
-
-Stay updated with the latest news, announcements, and project releases by following us on social media:
-
-- Blog: [News and Blog](https://www.cubesys.io/changelog.html)
-- LinkedIn: [cubesys GmbH](https://www.linkedin.com/company/cubesys-gmbh)
-- Website: [https://www.cubesys.io](https://cubesys.io/)
-
 ## License
 
 Unless otherwise specified, all projects hosted under cubesys GmbH are released under the [MIT License](https://opensource.org/license/MIT).
